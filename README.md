@@ -17,8 +17,8 @@
 [pip requirements]
 
 ## Usage
-[소제목: 각 섹션에 대한 설명]
-[python 실행 script 1]
-[python 실행 script 가이드 내용 설명]
+[소제목: 각 섹션에 대한 설명]\n
+[python 실행 script 1]\n
+[python 실행 script 가이드 내용 설명]\n
 ...
 [Arguments]
